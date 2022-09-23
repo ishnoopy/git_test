@@ -1,1 +1,2 @@
-hello my name is aldrin
+hello my name is aldrin guasa.
+this is my first repo file.
